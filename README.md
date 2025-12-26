@@ -119,7 +119,7 @@ npx expo start
 
 ## 📂 GitHub Repository
 
-📎 **GitHub 주소**: (여기에 링크 추가)
+📎 **GitHub 주소**:
 Web App
-https://github.com/gangsuckmin/PB-Project.git
+- https://github.com/gangsuckmin/PB-Project.git
 ---
